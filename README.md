@@ -1,17 +1,26 @@
+
 # flutter_navegation
 
-A new Flutter project.
+## Actividad 1 - Tercer corte
 
-## Getting Started
+Proyecto de Flutter desarrollado para la actividad de navegación entre vistas utilizando el paquete go_router.
 
-This project is a starting point for a Flutter application.
+### Vistas del proyecto
 
-A few resources to get you started if this is your first Flutter project:
+- Home: menú principal.
+- Buttons: ejemplos de botones de Flutter.
+- Cards: ejemplos de tarjetas.
+- Acerca de: información personal.
+- Login: formulario de acceso.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Requisitos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+
+### Ejecutar el proyecto
+
+```bash
+flutter pub get
+flutter run
+```
